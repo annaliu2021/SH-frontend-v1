@@ -1,0 +1,50 @@
+{
+  "intro":[
+    {
+      "icon": "MagnifyingGlassIcon",
+      "title":"地毯式搜尋",
+      "desc":"地圖方式尋找任務，輕鬆找到附近需要幫助的任務"
+    },
+    {
+      "icon": "ChatBubbleLeftRightIcon",
+      "title":"技能評價系統",
+      "desc":"幫手和案主的互相評價，建立信任和可靠性"
+    },
+    {
+      "icon": "ChatBubbleOvalLeftEllipsisIcon",
+      "title":"即時通訊與通知",
+      "desc":"提供即時、便捷的溝通和通知，確保有效的溝通與合作"
+    }
+  ],
+  "countData":[
+    {
+      "icon": "DocumentDuplicateIcon",
+      "count": 0,
+      "target": 300,
+      "title": "本月已刊登任務"
+    },
+    {
+      "icon": "TrophyIcon",
+      "count": 0,
+      "target": 190,
+      "title": "本月已完成任務"
+    }
+  ],
+  "steps":[
+    {
+      "icon": "NewspaperIcon",
+      "title": "刊登任務",
+      "subtitle": "步驟 1"
+    },
+    {
+      "icon": "UserGroupIcon",
+      "title": "幫手上門",
+      "subtitle": "步驟 2"
+    },
+    {
+      "icon": "HandThumbUpIcon",
+      "title": "共享雙贏",
+      "subtitle": "步驟 3"
+    }
+  ]
+}
