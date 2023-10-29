@@ -9,8 +9,8 @@
 「讓您在生活中擁有超人的力量」。這個理念代表著我們的使命是提供一個平台，讓使用者可以輕鬆地找到需要幫助的任務。同時，我們也希望讓使用者感受到自己像超人一樣有能力去幫助別人解決問題，實現自我價值的提升。
 
 ## 網站連結
-[首頁](https://superhandy-frontend.zeabur.app/)
-[API文件](https://superhandy-backend-v1.onrender.com/api-doc/)
+[首頁](https://sh-v1.onrender.com/)
+[API文件](https://sh-api-v1.onrender.com/api-doc/)
 
 
 ## 網站技術
@@ -21,19 +21,22 @@
 
 ## 快速開始
 
--   (1) 建立 `config.env`。 (可以複製 `example.env`)
--   (2) 執行 `npm install`。
--   (3) 依照你的環境去執行下方的程式碼。
--   (4) 運行swagger-doc:http://localhost:3000/api-doc。
+- (1) 建立 `config.env`。 (可以複製 `example.env`)
+- (2) 執行 `pnpm install`。
+- (3) 依照你的環境去執行下方的程式碼。
 
+### 開發環境
+
+```bash
+pnpm run dev
 ```
-//開發環境
-npm run dev
 
-//正式機環境
-npm run prod
+### 正式環境
 
-//Swagger開發文件
-npm run swagger
+```bash
+pnpm run build
+```
 
+```bash
+pnpm run preview
 ```
