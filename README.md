@@ -16,7 +16,7 @@
 
 ## 網站技術
 本專案採前後端分離，前端採用 Vue 搭配 Nuxt3 框架開發，後端採用 NodeJs 搭配 Mongo DB。
-<img src="./image/system-structure.png">
+<img src="/public/images/system-structure.png">
 
 
 ## 網站地圖
