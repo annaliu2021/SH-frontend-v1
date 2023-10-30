@@ -20,7 +20,7 @@
 
 
 ## 網站地圖
-<img src="/public/images/sitmap.png">
+<img src="/public/images/sitemap.png">
 
 ## 快速開始
 - (1) 建立 `config.env`。 (可以複製 `example.env`)
